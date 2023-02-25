@@ -1,0 +1,8 @@
+  hr{
+    width:250px;
+    height:5px;
+    background-color:black;
+  }
+  body{
+    background-image: linear-gradient(red, yellow);
+  }
